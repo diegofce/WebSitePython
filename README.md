@@ -1,2 +1,2 @@
 # WebSitePython
-this repository is of devSenior
+This repository is of devSenior
